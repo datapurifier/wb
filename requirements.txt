@@ -1,1 +1,1 @@
-wbmaker==0.0.6
+wbmaker==0.0.7
